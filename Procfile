@@ -1,1 +1,1 @@
-worker: python legolegend.py
+worker: python Main.py
